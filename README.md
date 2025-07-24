@@ -25,3 +25,6 @@ Although basic, the API is well-structured and easily extendable. Developers can
 Testing is partially included, with placeholders for expanding coverage. Using Django’s built-in test suite and DRF’s testing tools, developers can write comprehensive tests for views, models, serializers, and permissions. This helps ensure the API behaves correctly as it evolves.
 
 In summary, this Django Blog API is a great starting point for building a content-driven web or mobile app. It provides essential features out of the box while remaining flexible for future enhancements. Whether you’re a beginner looking to learn DRF or a developer aiming to build on a solid foundation, this project delivers a reliable backend for any blog-like application.
+
+<img width="1915" height="963" alt="Image" src="https://github.com/user-attachments/assets/dbe077f0-4964-4df0-8d39-95baba36b9bf" />
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/d6f9e93e-8a8e-4e64-9fc3-216a99bfecd5" />
